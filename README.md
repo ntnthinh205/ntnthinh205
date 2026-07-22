@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently pursuing computer vision and smart controll major at HCMUS<br><br>🌱 Visit my personal site: www.thinhnguyen.xyz</p>
+<p align="left">📚 I'm currently pursuing computer vision and smart controll major at HCMUS<br><br>🌱 Visit my personal site: nguyenthinh.id.vn</p>
 
 ###
 
